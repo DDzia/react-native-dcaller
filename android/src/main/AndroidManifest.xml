@@ -1,4 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.reactnativedcaller">
+    package="ddzia.react.dcaller">
+
+    <application>
+        <!--
+        <activity android:name="ddzia.react.dcaller.IncomingActivity">
+            <intent-filter>
+                <action android:name="ddzia.react.dcaller.showincoming.{your-app-unique-id}"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        -->
+    </application>
 
 </manifest>

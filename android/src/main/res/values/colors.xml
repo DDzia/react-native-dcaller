@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="zill_primary">#006C35</color>
+  <color name="end_call">#F04139</color>
+  <color name="apply_call">#36BE84</color>
+</resources>
